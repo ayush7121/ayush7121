@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ayush7121
-- 👀 I’m interested in Data Science> Machine Learning > IOT..
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in  Data Science & Machine Learning.
+- 🌱 I’m currently learning Agile.
+- 💞️ I’m looking to collaborate on IOT.
+- 📫 Email : mailto:ayushdutta7121@gmail.com
 
 <!---
 ayush7121/ayush7121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
